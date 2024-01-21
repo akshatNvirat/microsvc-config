@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to loans related prod APIs "
+  contactDetails:
+    name: "vivek singh - prod"
+    email: "vivek@vivek.com"
+  onCallSupport:
+    - (469) 555-1234
+    - (469) 523-1345
+
+

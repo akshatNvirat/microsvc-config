@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to accounts related qa APIs "
+  contactDetails:
+    name: "aks singh - qa"
+    email: "aks@aks.com"
+  onCallSupport:
+    - (973) 555-1234
+    - (973) 523-1345
+
+

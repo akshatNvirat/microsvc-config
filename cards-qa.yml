@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to cards related qa APIs "
+  contactDetails:
+    name: "aks singh - qa"
+    email: "aks@aks.com"
+  onCallSupport:
+    - (973) 555-1234
+    - (973) 523-1345
