@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounts related good-prod APIs "
+  message: "Welcome to accounts related xxx APIs "
   contactDetails:
     name: "vivek singh - prod"
     email: "{cipher}51589d75e13d0e6e9fad7dbe401e48d45f7daac086414cc47b18553599960ed4"
